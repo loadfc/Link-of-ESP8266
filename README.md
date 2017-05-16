@@ -3,6 +3,7 @@ Link ข้อมูลของ ESP8266
 
 <h1>NodeMCU เทคนิค</h1>
 1. <a href="http://tinit14.blogspot.com/2016/03/sensor-google-sheets-database-sd-card.html">Upload to google sheet</a>
+2. <a href="https://tridenttd-iot.blogspot.com/2017/05/esp8266-multitask.html">ESP8266 Task Scheduler</a>
 
 
 <h1>NodeMCU Lua</h1>
