@@ -37,5 +37,6 @@ Programming GPIO on the ESP8266 with NodeMCU</a><br>
 <li> <a href="https://www.itpcc.net/tip-and-technic/esp8266/esp8266-with-fahsai-anto/">สั่งการ ESP ด้วยฟ้าใสผ่าน Anto.io</a><br>
 <li> <a href="http://www.ayarafun.com/2015/09/esp8266-sending-data-to-thingspeak/">ESP8266 บันทึกข้อมูลเข้า Thingspeak</a><br>
 <li> <a href="http://tesrteam.blogspot.com/2015/12/how-to-use-esp8266-nodemcu-post-update.html?m=1">How to use ESP8266 NodeMCU post update status on facebook and Twitter using IFTTT service</a><br>
+<li> <a href="http://androidcontrol.blogspot.com/2016/05/esp8266-iot-thingspeak-control-relay.html">ESP8266 IoT ThingSpeak Control Relay </a><br>
 </ol>
 
