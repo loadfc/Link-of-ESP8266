@@ -18,6 +18,10 @@ Link ข้อมูลของ ESP8266
 <li> <a href="http://thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu-ch5.html">บทความการใช้งานเริ่มต้น ESP8266 NodeMCU และการใช้งาน Application ต่างๆ ตอนที่ 5 Web Server</a><br>
 <li> <a href="https://www.ioxhop.com/article/43/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-esp8266-%E0%B9%83%E0%B8%99%E0%B9%82%E0%B8%AB%E0%B8%A1%E0%B8%94-ap-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-tcp">การใช้งาน ESP8266 ในโหมด AP และการรับส่งข้อมูลผ่าน TCP</a><br>
 <li> <a href="https://www.ioxhop.com/article/45/esp8266-esp8285-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-firebase-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A5%E0%B9%84%E0%B8%97%E0%B8%A1%E0%B9%8C%E0%B8%88%E0%B8%B2%E0%B8%81-google">ESP8266 ESP8285 กับการใช้งาน Firebase ระบบฐานข้อมูลเรียลไทม์จาก Google</a><br>
+
+<li> <a href="http://www.praphas.com/forum/index.php?PHPSESSID=4k3l59b80b4asvhmhuojhmbah3&board=27.0">เว็บบอร์ดครูประภาส เป็นบทเรียนเรื่อง ESP8266 เบื้องต้น</a><br>
+<li> <a href="http://www.cmmakerclub.com/en/2015/06/esp8266/%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-hardware-spi-%E0%B8%9A%E0%B8%99esp8266-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B9%80%E0%B8%82%E0%B8%B5/">ทดสอบใช้งาน Hardware SPI บนESP8266 กับ เขียน Arduino IDE + DW.miniESP+RC522</a><br>
+
 </ol>
 
 <h2>NodeMCU Lua</h2>
@@ -34,6 +38,9 @@ Programming GPIO on the ESP8266 with NodeMCU</a><br>
 <li> <a href="https://www.myelectronicslab.com/tutorial/iot-project-web-based-electrical-machine-control-using-firebase-esp8266/">IoT Project – Web-based electrical machine control using Firebase and esp8266</a> <br>
 <li> <a href="http://embedded-lab.com/blog/wifi-deauthentication-attacker-using-esp8266/">WiFi deauthentication attacker using ESP8266 เอาไว้ Disconnect WiFi ของคนอื่น</a> <br>
 <li> <a href="http://pdacontrolen.com/tutorial-esp8266-ds18b20-temperature-node-red-mqtt-mosquitto-iot/">Tutorial ESP8266 DS18B20 Temperature Node-RED MQTT (Mosquitto) IoT</a> <br>
+<li> <a href="https://hackaday.io/project/13322-esp8266-useless-throwie">ESP8266 Useless Throwie ใช้ WeMoS ถ้าสั่งเปิด มันจะสั่งปิด</a> <br>
+<li> <a href="http://adityatannu.com/blog/post/2016/01/31/ESP8266-Witty-Cloud-Board-Demo.html">ESP8266 Witty Cloud Board Demo</a> <br>
+
 </ol>
 
 <h2>การใช้งาน ESP8266 กับ Cloud Service</h2>
