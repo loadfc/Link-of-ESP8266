@@ -21,6 +21,7 @@ Link ข้อมูลของ ESP8266
 
 <li> <a href="http://www.praphas.com/forum/index.php?PHPSESSID=4k3l59b80b4asvhmhuojhmbah3&board=27.0">เว็บบอร์ดครูประภาส เป็นบทเรียนเรื่อง ESP8266 เบื้องต้น</a><br>
 <li> <a href="http://www.cmmakerclub.com/en/2015/06/esp8266/%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-hardware-spi-%E0%B8%9A%E0%B8%99esp8266-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B9%80%E0%B8%82%E0%B8%B5/">ทดสอบใช้งาน Hardware SPI บนESP8266 กับ เขียน Arduino IDE + DW.miniESP+RC522</a><br>
+<li> <a href="http://www.instructables.com/id/ESP8266-Firmata-J5-NodeBot/">ESP8266 Firmata-J5 NodeBot เอา JavaScript มารันใน ESP8266</a><br>
 
 </ol>
 
@@ -51,6 +52,10 @@ Programming GPIO on the ESP8266 with NodeMCU</a><br>
 <li> <a href="http://androidcontrol.blogspot.com/2016/05/esp8266-iot-thingspeak-control-relay.html">ESP8266 IoT ThingSpeak Control Relay </a><br>
 <li> <a href="https://medium.com/@isaradream/linebot-anto-io-tutorial-c9e5126409b9">LineBot + Anto.io (Tutorial)</a><br>
 <li> <a href="https://www.anto.io/">Anto.io</a><br>
+<li> <a href="https://www.ioxhop.com/article/47/esp8266-esp8285-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2-line">ESP8266 / ESP8285 กับการส่งการแจ้งเตือนเข้า LINE</a><br>
 
 </ol>
+
+<a href="http://www.elec-za.com/%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%a5%e0%b8%b4%e0%b9%89%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87-esp8266/">รวมลิ้งข้อมูลของ ESP8266</a><br>
+
 
