@@ -27,6 +27,10 @@ Link ข้อมูลของ ESP8266
 <li> <a href="https://github.com/ioxhop/easyConfig ">easyConfig</a></li>
 <li> <a href="https://www.facebook.com/JimmySoftware/videos/981505318593177/ ">Pac Man บน ESPresso Lite</a></li>
 <li> <a href="https://www.youtube.com/watch?v=i1OkGGl6RUU&feature=youtu.be ">ESP8266 RGBLED Control </a></li>
+<li> <a href="https://github.com/birdtechstep/Espresso-Lite-WeatherStation ">Espresso-Lite-WeatherStation</a></li>
+<li> <a href="https://www.youtube.com/watch?v=K3zIl720Xog&list=PLQRxiX2QRbvNIck7gAbjdGM5fOZyWB_cN&index=7 ">ESP8266 Tutorial ส่งข้อมูลจาก ESP8266 เข้าโทรศัพท์ด้วย Google Cloud </a></li>
+<li> <a href=" "></a></li>
+<li> <a href=" "></a></li>
 </ol>
 
 <h2>NodeMCU Lua</h2>
