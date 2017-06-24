@@ -24,6 +24,9 @@ Link ข้อมูลของ ESP8266
 <li> <a href="http://www.cmmakerclub.com/en/2015/06/esp8266/%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-hardware-spi-%E0%B8%9A%E0%B8%99esp8266-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B9%80%E0%B8%82%E0%B8%B5/">ทดสอบใช้งาน Hardware SPI บนESP8266 กับ เขียน Arduino IDE + DW.miniESP+RC522</a></li>
 <li> <a href="http://www.instructables.com/id/ESP8266-Firmata-J5-NodeBot/">ESP8266 Firmata-J5 NodeBot เอา JavaScript มารันใน ESP8266</a></li>
 <li> <a href="http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu.html">บทความการใช้งานเริ่มต้น ESP8266 NodeMCU และการใช้งาน Application ต่างๆ</a></li>
+<li> <a href="https://github.com/ioxhop/easyConfig ">easyConfig</a></li>
+<li> <a href="https://www.facebook.com/JimmySoftware/videos/981505318593177/ ">Pac Man บน ESPresso Lite</a></li>
+<li> <a href="https://www.youtube.com/watch?v=i1OkGGl6RUU&feature=youtu.be ">ESP8266 RGBLED Control </a></li>
 </ol>
 
 <h2>NodeMCU Lua</h2>
